@@ -2,12 +2,6 @@
 My name is `Derek`, and I have recently graduated with a degree in computer science from CUHK <img src="https://www.cuhk.edu.hk/english/images/aboutus/logo.jpg" width="20"/>. My academic focus was on large language models and artificial intelligence. I am passionate about exploring the intersection of technology and creativity, and I'm constantly seeking new challenges in the field of AI.
 
 <h2></h2>
-
-### My project:
-<img alt="Project" src="https://github-readme-stats.vercel.app/api/pin?username=derek33125&repo=AITextDetection"/>
-
-<h2></h2>
-
 ### Tools, Languages and Frameworks I use:
 <img src="https://skillicons.dev/icons?i=python,pytorch,java,c" alt="languages logos" />
 <img src="https://skillicons.dev/icons?i=html,js,latex,ubuntu" alt="languages logos2" />
