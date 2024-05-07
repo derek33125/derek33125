@@ -4,7 +4,7 @@ My name is `Derek`, and I have recently graduated with a degree in computer scie
 <h2></h2>
 
 ### My project:
-<img alt="Project" src="https://github-readme-stats.vercel.app/api/pin?username=derek33125&repo=wiki"/>
+<img alt="Project" src="https://github-readme-stats.vercel.app/api/pin?username=derek33125&repo=AITextDetection"/>
 
 <h2></h2>
 
